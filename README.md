@@ -1,4 +1,4 @@
-# Sou o Fabricio Gonzalez Bez Fontana!
+# Sou o Fabricio Gonzalez Bez Fontana
 
 🎓 Estudante de **Engenharia de Software** na Uniamérica  
 💻 Apaixonado por tecnologia, back-end, Java e eletrônica  
