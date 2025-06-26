@@ -20,5 +20,14 @@
 
 ---
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BricioBez&show_icons=true&theme=default)
+![Visitantes](https://komarev.com/ghpvc/?username=BricioBez&color=blue)
+
+
 > 📌 “Aprendendo todos os dias para construir um futuro mais acessível com tecnologia.”
 
