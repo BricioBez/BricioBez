@@ -18,14 +18,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-gonzalez-bez-fontana-843370370)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/BricioBez)
 
----
 
+---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 ---
-
-> 📌 “Aprendendo todos os dias para construir um futuro mais acessível com tecnologia.”
+📌 “Aprendendo todos os dias para construir um futuro mais acessível com tecnologia.”
 
