@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, sou o Fabricio Gonzalez Bez Fontana!
 
-<!--
-**BricioBez/BricioBez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** na Uniamérica  
+💻 Apaixonado por tecnologia, back-end, Java e eletrônica  
+📍 Santa Terezinha de Itaipu — PR | Brasil
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso:
+- Java, C, JavaScript, HTML, CSS
+- Arduino Uno e prototipagem eletrônica
+- Swing para interfaces gráficas
+- Versionamento com Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projetos acadêmicos
+- 🧾 **Restaurante Dove**: sistema de gestão em Java + Swing  
+- 🗑️ **Lixeira automatizada com Arduino** para acessibilidade
+
+## 📫 Me encontre por aqui:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-gonzalez-bez-fontana-843370370)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/BricioBez)
+
+---
+
+> 📌 “Aprendendo todos os dias para construir um futuro mais acessível com tecnologia.”
+
