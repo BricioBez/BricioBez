@@ -8,10 +8,6 @@
 📱 Telefone: (45) 99125-4808
 🔗 LinkedIn: adicione seu link aqui
 
-🖼️ Banner
-
-(Insira aqui sua imagem/banner do GitHub)
-
 👋 Sobre mim
 
 Olá! Meu nome é Fabricio, tenho 18 anos e sou estudante do 4º período de Engenharia de Software.
