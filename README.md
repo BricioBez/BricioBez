@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/HLGwuZk-2L4AAAAj/coding.gif" width="40"/> Fabricio Gonzalez Bez Fontana
+Fabricio Gonzalez Bez Fontana
 🚀 Estudante de Engenharia de Software | Desenvolvedor Full Stack em formação
 
 📍 Santa Terezinha de Itaipu – PR
