@@ -1,29 +1,113 @@
-# Sou o Fabricio Gonzalez Bez Fontana
+<img src="https://media.tenor.com/HLGwuZk-2L4AAAAj/coding.gif" width="40"/> Fabricio Gonzalez Bez Fontana
+🚀 Estudante de Engenharia de Software | Desenvolvedor Full Stack em formação
 
-🎓 Estudante de **Engenharia de Software** na Uniamérica  
-💻 Apaixonado por tecnologia, back-end, Java e eletrônica  
-📍 Santa Terezinha de Itaipu — PR | Brasil
+📍 Santa Terezinha de Itaipu – PR
+📧 briciogonzalez12@gmail.com
 
-## 🚀 Tecnologias que uso:
-- Java, C, JavaScript, HTML, CSS
-- Arduino Uno e prototipagem eletrônica
-- Swing para interfaces gráficas
-- Versionamento com Git e GitHub
+📱 (45) 99125-4808
+🔗 LinkedIn
 
-## 🧠 Projetos acadêmicos
-- 🧾 **Restaurante Dove**: sistema de gestão em Java + Swing  
-- 🗑️ **Lixeira automatizada com Arduino** para acessibilidade
+🖼️ Banner
 
-## 📫 Me encontre por aqui:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-gonzalez-bez-fontana-843370370)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/BricioBez)
+👋 Sobre mim
+
+Olá! Meu nome é Fabricio, tenho 18 anos e sou estudante do 4º período de Engenharia de Software.
+Sou apaixonado por desenvolvimento, tecnologia e por transformar ideias em soluções reais.
+
+Busco minha primeira oportunidade na área de TI para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com projetos desafiadores.
+
+🎓 Formação
+
+🎓 Engenharia de Software — Descomplica UniAmérica
+📅 Atualmente cursando o 4º período
+
+🧠 Experiência Acadêmica
+
+Desenvolvimento com C e Java usando lógica, POO e estruturas de dados
+
+Criação de interfaces modernas com HTML, CSS, SCSS, JavaScript e Angular
+
+Programação e prototipagem com Arduino
+
+Experiência com PostgreSQL e MySQL
+
+Participação em projetos integradores simulando sistemas reais
+
+Vivência no ciclo de desenvolvimento de software
+
+💼 Experiência Profissional
+🍗 Frango e Cia — Atendente
+
+Reservas de delivery, etiquetas, pedidos
+
+Atendimento ao cliente e cobrança
+
+🚗 Fontana Multimarcas — Atendimento
+
+Atendimento presencial e telefônico
+
+Impressão e elaboração de documentos e contratos
+
+Suporte administrativo e organização
+
+🛠️ Tecnologias e Ferramentas
+🚀 Linguagens
 
 
----
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
----
-📌 “Aprendendo todos os dias para construir um futuro mais acessível com tecnologia.”
 
+
+
+
+
+
+🎨 Front-end
+
+
+
+
+
+
+
+
+🗂️ Banco de Dados
+
+
+
+
+🔧 Outros
+
+
+
+
+
+
+🤝 Soft Skills
+
+Comunicação
+
+Organização
+
+Trabalho em equipe
+
+Proatividade
+
+Resolução de problemas
+
+📊 Estatísticas do GitHub
+<div align="center">
+
+</div>
+🔥 Streaks e Atividade
+<div align="center">
+
+</div>
+🚀 Objetivo Profissional
+
+Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos em um ambiente real, aprender com profissionais experientes e contribuir com projetos que impactem positivamente usuários e empresas.
+
+📬 Entre em contato
+
+📧 Email: briciogonzalez12@gmail.com
+
+📱 Telefone: (45) 99125-4808
+🔗 LinkedIn
